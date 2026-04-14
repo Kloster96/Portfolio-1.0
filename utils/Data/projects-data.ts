@@ -1,0 +1,115 @@
+// ============================================
+// 💼 PROYECTOS PERSONALES
+// ============================================
+
+export const projectsData = [
+  {
+    id: 1,
+    name: "E-commerce App",
+    description_es:
+      "Este es un e-commerce completo para la venta de zapatillas, ropa y accesorios deportivos. El sistema incluye catálogo de productos con filtros por categoría, búsqueda y ordenamiento, carrito de compras con gestión de talles y colores, checkout con integración a MercadoPago, panel de administración para gestionar productos y diseño responsive adaptado a móviles y escritorio.",
+    description_en:
+      "This is a complete e-commerce for selling sneakers, sportswear, and accessories. The system includes a product catalog with category filters, search and sorting, shopping cart with size and color management, checkout with MercadoPago integration, admin panel for product management, and responsive design for mobile and desktop.",
+    tools: ["React", "Node.js", "MongoDB", "Tailwind"],
+    role_es: "Desarrollador Full Stack",
+    role_en: "Full Stack Developer",
+    code: "https://github.com/Kloster96/E-Commerce-Website",
+    demo: "https://e-commerce-website-hazel-gamma.vercel.app/",
+    date: "2026-03-28",
+    images: ["/projects/E-commerce/E-commerce App-1.png"],
+    videos: [""],
+    highlights_es: [
+      "Catálogo de productos con filtros por categoría, búsqueda y ordenamiento",
+      "Carrito de compras con gestión de talles y colores",
+      "Checkout con integración a MercadoPago",
+      "Panel de administración para gestionar productos y galería",
+      "Diseño responsive adaptado a móviles y escritorio",
+    ],
+    highlights_en: [
+      "Product catalog with category filters, search and sorting",
+      "Shopping cart with size and color management",
+      "Checkout with MercadoPago integration",
+      "Admin panel for product and gallery management",
+      "Responsive design for mobile and desktop",
+    ],
+    challenges: [],
+  },
+  {
+    id: 2,
+    name: "Blog",
+    description_es:
+      "Construí un blog profesional donde puedo escribir artículos, subirlos con imágenes, guardarlos como borrador o publicarlos, y compartirlos con el mundo. Tiene un panel de administración protegido donde solo yo puedo entrar.\n\nEs como tener un WordPress personalizado, pero hecho por mí desde cero. El sitio carga rápido, aparece en Google, y está online funcionando las 24hs.\n\nLo hice porque quería demostrar que puedo construir algo completo: desde la idea hasta que funciona en internet, pasando por el diseño, la base de datos, la seguridad, y el deploy.",
+    description_en:
+      "I built a professional blog where I can write articles, upload them with images, save them as drafts or publish them, and share them with the world. It has a protected admin panel where only I can enter.\n\nIt's like having a custom WordPress, but made by me from scratch. The site loads fast, appears in Google, and is online running 24/7.\n\nI made it because I wanted to demonstrate that I can build something complete: from the idea to it working on the internet, through the design, database, security, and deployment.",
+    tools: ["React", "Node.js", "MongoDB", "Tailwind"],
+    role_es: "Desarrollador Full Stack",
+    role_en: "Full Stack Developer",
+    code: "https://github.com/Kloster96/Blog?tab=readme-ov-file",
+    demo: "https://blog-arwvdk269-kloster96s-projects.vercel.app/",
+    date: "2026-03-30",
+    images: ["/projects/Blog/Blog.png"],
+    videos: [""],
+    highlights_es: [
+      "Escritura de artículos con editor de texto enriquecido",
+      "Subida de imágenes para cada artículo",
+      "Sistema de estados: borrador, publicado, etc.",
+      "Panel de administración protegido con autenticación",
+      "SEO optimizado para aparecer en Google",
+      "Diseño responsive para móvil y escritorio",
+    ],
+    highlights_en: [
+      "Article writing with rich text editor",
+      "Image upload for each article",
+      "Status system: draft, published, etc.",
+      "Protected admin panel with authentication",
+      "SEO optimized to appear on Google",
+      "Responsive design for mobile and desktop",
+    ],
+    challenges: [],
+  },
+  {
+    id: 3,
+    name: "Gestor de Tareas",
+    description_es:
+      "Aplicación web completa para gestión de tareas y equipos de trabajo con múltiples vistas (lista, Kanban, calendario), sistema de comentarios, etiquetas, archivos adjuntos con Cloudinary, notificaciones en tiempo real con Socket.io, exportación a PDF/Excel, y modo oscuro. Desarrollada con arquitectura MERN y diseño moderno responsivo.",
+    description_en:
+      "Complete web application for task and work team management with multiple views (list, Kanban, calendar), comments system, labels, file attachments with Cloudinary, real-time notifications with Socket.io, PDF/Excel export, and dark mode. Developed with MERN architecture and modern responsive design.",
+    tools: [
+      "React 19",
+      "Vite",
+      "Tailwind CSS",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Mongoose",
+      "Cloudinary",
+      "Socket.io",
+      "JWT",
+      "Recharts",
+    ],
+    role_es: "Desarrollador Full Stack",
+    role_en: "Full Stack Developer",
+    code: "https://github.com/Kloster96/Task-Manager",
+    demo: "https://task-manager-gray-three-31.vercel.app/",
+    date: "2026-01-14",
+    images: ["/projects/Task-Manager/task-manager.png"],
+    videos: [""],
+    highlights_es: [
+      "Múltiples vistas: lista, Kanban y calendario",
+      "Sistema de comentarios y etiquetas",
+      "Archivos adjuntos con Cloudinary",
+      "Notificaciones en tiempo real con Socket.io",
+      "Exportación a PDF y Excel",
+      "Modo oscuro",
+    ],
+    highlights_en: [
+      "Multiple views: list, Kanban, and calendar",
+      "Comments and labels system",
+      "File attachments with Cloudinary",
+      "Real-time notifications with Socket.io",
+      "PDF and Excel export",
+      "Dark mode",
+    ],
+    challenges: [],
+  },
+];
