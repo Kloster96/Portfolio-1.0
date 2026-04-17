@@ -22,14 +22,14 @@ const LanguageContext = createContext<LanguageContextType | undefined>(
 const STORAGE_KEY = "portfolio-language";
 
 function getInitialLanguage(): Language {
-  if (typeof window === "undefined") return "spanish";
+  if (typeof window === "undefined") return "english";
   const stored = localStorage.getItem(STORAGE_KEY);
   if (stored === "spanish" || stored === "english") return stored;
-  return "spanish";
+  return "english";
 }
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [language, setLanguage] = useState<Language>("spanish");
+  const [language, setLanguage] = useState<Language>("english");
 
   // Load from localStorage on mount
   useEffect(() => {
