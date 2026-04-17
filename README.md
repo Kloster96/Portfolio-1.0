@@ -69,6 +69,3 @@ Los componentes principales están en:
 
 ---
 
-## 📄 Licencia
-
-MIT License
