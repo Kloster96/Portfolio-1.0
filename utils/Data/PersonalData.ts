@@ -58,5 +58,5 @@ export const personalData = {
 
   // Enlace a tu CV (subilo a Google Drive, Dropbox, o可直接 en /public/)
   // Formato: "https://..." o "/cv.pdf" si lo ponés en la carpeta public
-  resume: "/tu-cv.pdf",
+  resume: "/Luciano_Kloster_CV.pdf",
 };
