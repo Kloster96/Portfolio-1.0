@@ -42,7 +42,7 @@ export const translations = {
       title: "Sobre Mí",
       subtitle: "Construyendo mi futuro profesional",
       description:
-        "Soy Desarrollador Full Stack con más de 3 años de experiencia práctica construyendo aplicaciones web escalables. Mi formación previa como Técnico en Electrónica y mis estudios actuales como Técnico en Programación en la UTN me proporcionan una base analítica robusta para resolver problemas complejos, desde el hardware hasta el software. Me especializo en el ecosistema JavaScript/TypeScript y Python, y busco integrarme a un equipo donde pueda aportar mi proactividad y transformar mis conocimientos en soluciones reales.",
+        "Soy desarrollador Full Stack especializado en los ecosistemas JavaScript/TypeScript y Python. Tengo formación previa como Técnico en Electrónica y estoy terminando la Tecnicatura en Programación en la UTN. Construyo aplicaciones reales y funcionales de punta a punta, y busco integrarme a un equipo donde pueda aportar, seguir creciendo y resolver problemas concretos.",
       stats: {
         years: "Años de Experiencia",
         projects: "Proyectos Completados",
@@ -54,7 +54,7 @@ export const translations = {
       title: "Mis Proyectos",
       subtitle: "Proyectos Destacados",
       description:
-        "Una selección de proyectos desarrollados durante mi formación académica y tiempo personal, enfocados en aprender tecnologías modernas y crear soluciones prácticas.",
+        "Una selección de proyectos fullstack desarrollados para resolver problemas reales",
       viewAll: "Ver Todos los Proyectos",
       demo: "Demo",
       code: "Código",
@@ -145,7 +145,7 @@ export const translations = {
       title: "About Me",
       subtitle: "Building my professional future",
       description:
-        "I am a Full Stack Developer with over 3 years of practical experience building scalable web applications. My prior background as an Electronics Technician and my current studies as a Programming Technician at UTN provide me with a robust analytical foundation to solve complex problems, from hardware to software. I specialize in the JavaScript/TypeScript and Python ecosystems, and I am looking to join a team where I can contribute my proactivity and transform my knowledge into real solutions.",
+        "I'm a Full Stack Developer specialized in the JavaScript/TypeScript and Python ecosystems. I have a background as an Electronics Technician and I'm completing my Programming Technician degree at UTN. I build real, functional applications from frontend to backend, and I'm looking to join a team where I can contribute, keep growing, and solve real problems.",
       stats: {
         years: "Years of Experience",
         projects: "Projects Completed",
@@ -157,7 +157,7 @@ export const translations = {
       title: "My Projects",
       subtitle: "Featured Projects",
       description:
-        "A selection of projects developed during my academic training and personal time, focused on learning modern technologies and creating practical solutions.",
+        "A selection of full stack projects built to solve real-world problems",
       viewAll: "View All Projects",
       demo: "Demo",
       code: "Code",
